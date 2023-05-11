@@ -1,0 +1,8 @@
+PROPERTIES
+Name : Raja;
+Company: Aadvitech solutions;
+Role :Developer;
+
+"# mynew_file" 
+"# jagan_anna" 
+"# jagan_anna" 
